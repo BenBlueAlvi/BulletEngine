@@ -1,0 +1,15 @@
+[Bug Fixes]
+~fixed a sound related bug
+~fixed invisible bullets
+
+[Balance]
+~Halved drop rate of coins, but doubled their value, should clear up a bit of lag, again
+
+[Content]
++Added stages 5 and 6
++Added options
++Added blackboxes
+-Decreased hit noise volume
+
+
+
